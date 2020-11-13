@@ -10,7 +10,7 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 
 #### Features:
 - Daily customizable reminders(so you know what to farm each day)
-- Gacha tracker(so you never again have to count your history of wishes to see when next 5* is coming)
+- Gacha tracker(so you never again have to count your history of wishes to see when next 5* is coming)[Click here for more](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial)
 - Community guides and tips about specific farming places/methods
 
 #### Incoming features: 
@@ -32,7 +32,7 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 ## Discord Commands
 | Command | Arguments| Description                    | Example |
 | --------|----------|--------------------------------|---------|
-| `g.gacha`| [Blank] | Wishes tracker for your wishes in genshin. More info at the end of the page |g.gacha|
+| `g.gacha`| [Blank] | Wishes tracker for your wishes in genshin. More info at the end of the page [HERE](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial) |g.gacha|
 | `g.help`| [Blank] | Provides a link to this page |g.help|
 | `g.invite`| [Blank] | Sends an embed containing the invite for the bot, with a redirect to the support page |g.invite|
 | `g.reload`| [Blank] | NOT PUBLIC, used to reload the cache of the bot(for quick maintenece) |g.reload|
