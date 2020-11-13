@@ -43,7 +43,7 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 | `g.settings reminders enable`| [Blank] | Enables reminders messages to be sent on the guild |g.settings reminders enable|
 | `g.settings reminders disable`| [Blank] | Disables reminders messages to be sent on the guild |g.gacha|
 | `g.settings reminders output`| [#channel-name] | Forces messages from the reminders to be sent to a specific channel |g.settings reminders output #general|
-| `g.sub`| [Blank] | Enable reminders to be sent when you start genshin(once a day, resets at GMT-8, genshin time) |g.sub|
+| `g.sub`| [Blank] | Enable reminders to be sent when you start genshin(once a day, resets at UTC-8, Genshin daily reset for: 天空岛, 世界树 ,TW, HK, MO , Asia) |g.sub|
 | `g.test`| [Blank] | WIP, current placeholder for command g.reminders |g.test|
 | `g.unsub`| [Blank] | Disable reminders to be sent when you start genshin |g.gacha|
 
