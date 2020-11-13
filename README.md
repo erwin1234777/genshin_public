@@ -8,7 +8,6 @@ This bot is Safe For Work.
 # Add this bot to your server! 
 Simply click [HERE](https://discord.com/oauth2/authorize?client_id=773585165317570610&permissions=2081778770&redirect_uri=https%3A%2F%2Fdiscord.gg%2F6QEExsN&scope=bot&response_type=code) to add it.
 
-[![Free svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/erwin1234777/genshin_public/)
 [![Discord Shield](https://discordapp.com/api/guilds/628731905423966219/widget.png?style=shield)](https://discord.gg/6QEExsN)
 
 #### Features:
