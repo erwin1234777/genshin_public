@@ -64,7 +64,7 @@ Once inside genshin, click on the wishes tab.
 
 Now you are going to start with any banner, for this tutorial purposes, we'll be using the standard banner(permanent wishes)
 
-<img src="https://i.imgur.com/bVRBCUa.png" width="320">
+<img src="https://i.imgur.com/bVRBCUa.png" width="680">
 
 Once you have selected the banner, head over to discord and click on the corresponding banner you are in(in this case, the standard banner)
 
@@ -77,14 +77,14 @@ After the message changes, click the 1234 button on the most right position
 This will start a collector, so be careful, its listening to the next message in chat. Now, dont type anything in chat until we are done, okay?
 Next you'll head back to genshin, this time, ON THE SAME BANNER YOU WERE< click on HISTORY, on the bottom left corner of your wishes screen(ensure you are on the same banner)
 
-<img src="https://i.imgur.com/sbr7jkd.png" width="320">
+<img src="https://i.imgur.com/sbr7jkd.png" width="680">
 
 Now will be the part where you will have to be careful, this step is important so take your time.
 The button you clicked on discord is expecting an input containing the total wishes you done(which isnt necessary, if you want to count your total amount of wishes, its up to you, i would recommend you put 0), the 4* star streak and 5* star streak you have, i'll give you more detailed information.
 First, find your latest 4* star you got, it doesnt matter if its a character or weapon.
 Now that you found it, we are going to count them until the last wish you made. ALWAYS start counting the 4* itself as 0, the one above as 1, the next 2, 3 and so on, just remember to start counting AFTER the wish(aka, start counting the 4* itself as 0) as seen in the example below
 
-<img src="https://i.imgur.com/vkHtav6.png" width="320">
+<img src="https://i.imgur.com/vkHtav6.png" width="800">
 
 Remember that 4* cannot have a streak higher than 9(you can only have 9 between 4* streaks, as the 10th is guaranteed another 4* star).
 Now that you have that number, you are going to write it down.
