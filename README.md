@@ -84,7 +84,7 @@ The button you clicked on discord is expecting an input containing the total wis
 First, find your latest 4* star you got, it doesnt matter if its a character or weapon.
 Now that you found it, we are going to count them until the last wish you made. ALWAYS start counting the 4* itself as 0, the one above as 1, the next 2, 3 and so on, just remember to start counting AFTER the wish(aka, start counting the 4* itself as 0) as seen in the example below
 
-<img src="https://i.imgur.com/vkHtav6.png" width="800">
+<img src="https://i.imgur.com/kFlnOrf.png" width="800">
 
 Remember that 4* cannot have a streak higher than 9(you can only have 9 between 4* streaks, as the 10th is guaranteed another 4* star).
 Now that you have that number, you are going to write it down.
