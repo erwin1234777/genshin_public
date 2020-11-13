@@ -90,23 +90,42 @@ Now that you found it, we are going to count them until the last wish you made. 
 
 Remember that 4* cannot have a streak higher than 9(you can only have 9 between 4* streaks, as the 10th is guaranteed another 4* star).
 Now that you have that number, you are going to write it down.
+
 Repeat the same process for the 5*, find the LATEST 5* star you got(or if you didnt get any, start from as far as it goes). Now that you counted BOTH 4* star and 5* star, we are ready to go back to discord.
+
 The command should still be waiting for your next message, so now we are going to finish it up.
-Type this : 0, YOUR 4* STAR streak here, YOUR 5* STAR streak here
-It should look like this `0,7,12` for example, separated by commas
+
+Type this : `0, YOUR 4* STAR streak here, YOUR 5* STAR streak here`
+
+It should look like this:
+
+`0,7,12`
+
+for example, separated by commas
+
 Thats it, now do the same for the other 2 banners. This is only needed once to get you started.
 
 ## Already Setup or Fresh Accounts
 Now that you have your banners setup, your task is simple
+
 Go to genshin.
+
 Get on the Wishes Page
+
 Select what banner you will be getting wishes from
+
 Head over to discord, type g.gacha
+
 Click the same button for the banner you are pulling wishes from
+
 Roll a wish on genshin, wait for it to finish so you know what you got
+
 AFTER YOU KNOW WHAT YOU GOT, react correspondingly to what you got. 
+
 If you got a 3* Star, react with white
+
 If you got a 4* Star, react with purple
+
 If you got a 5* Star, reac with orange
 
 <img src="https://i.imgur.com/8W2e4Jy.png" width="320">
