@@ -12,6 +12,9 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 
 #### Features:
 - Daily customizable reminders(so you know what to farm each day)
+- Character Talents reminders absed on the days needed(with map included)
+- Weapons tracker to keep track of days needed to grab ascencion materials for your weapons
+- Daily chores/farms to be done(customizable). Never again forget to kill WEI's for primogems or other mundage/daily tasks!
 - Gacha tracker(so you never again have to count your history of wishes to see when next 5* is coming)[Click here for more](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial)
 - Community guides and tips about specific farming places/methods
 
@@ -19,7 +22,6 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 - [Visual tutorial for Wish tracker](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial)
 
 #### Incoming features: 
-- Farming maps
 - Ticket system
 - Feedback system
 ### Need support? 
@@ -41,7 +43,10 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 | `g.help`| [Blank] | Provides a link to this page |g.help|
 | `g.invite`| [Blank] | Sends an embed containing the invite for the bot, with a redirect to the support page |g.invite|
 | `g.reload`| [Blank] | NOT PUBLIC, used to reload the cache of the bot(for quick maintenece) |g.reload|
-| `g.reminders`| [Blank] | WIP, selector for the reminders you wish to be reminded of |g.reminders|
+| `g.reminders`| [Blank] | lists available reminders subcommands(adding info soon) |g.reminders|
+| `g.reminders c`| [Blank] | ALIASES c, chars, characters. Brings up the menu for character selection |g.reminders chars|
+| `g.reminders weapons`| [Blank] | ALIASES overrides. Brings manual selection for week days for reminders |g.reminders weapons|
+| `g.reminders farms`| [Blank] | ALISES daily brings the daily tasks to choose and be reminded of, this is super handy |g.reminders daily|
 | `g.settings`| [Blank] | Brings all current settings for your guild(permissions may be required) |g.settings|
 | `g.settings prefix`| [Blank] | Bring all info about the current prefix in the guild |g.settings prefix !|
 | `g.settings prefix set/change`| [prefix(max 3 characters)] | Changes the prefix for the whole guild |g.settings prefix set !|
@@ -49,10 +54,9 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 | `g.settings reminders disable`| [Blank] | Disables reminders messages to be sent on the guild |g.gacha|
 | `g.settings reminders output`| [#channel-name] | Forces messages from the reminders to be sent to a specific channel |g.settings reminders output #general|
 | `g.sub`| [Blank] | Enable reminders to be sent when you start genshin(once a day, resets at UTC-8, Genshin daily reset for: 天空岛, 世界树 ,TW, HK, MO , Asia) |g.sub|
-| `g.t1`| [Blank] | WIP, current placeholder for command g.reminders |g.51|
-| `g.t2`| [Blank] | WIP, debugging command to get user data |g.t2|
-| `g.t3`| [Blank] | WIP, current used to force a notification |g.t3|
-| `g.test`| [Blank] | WIP, current placeholder for command g.reminders |g.test|
+| `g.t1`| [Blank] | Testing command, ignore(NOT PUBLIC) |g.51|
+| `g.t2`| [Blank] | Debugging command to get user data(PUBLIC for curiosity) |g.t2|
+| `g.t3`| [Blank] | WIP, currently used to force a notification(PUBLIC, for testing) |g.t3|
 | `g.unsub`| [Blank] | Disable reminders to be sent when you start genshin |g.gacha|
 
 # Gacha Tracker visual tutorial
