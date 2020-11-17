@@ -12,9 +12,9 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 
 #### Features:
 - Daily customizable reminders(so you know what to farm each day)
-- Character Talents reminders absed on the days needed(with map included)
+- Character Talents reminders based on the days needed(with domain maps included)
 - Weapons tracker to keep track of days needed to grab ascencion materials for your weapons
-- Daily chores/farms to be done(customizable). Never again forget to kill WEI's for primogems or other mundage/daily tasks!
+- Daily chores/farms to be done(customizable). Never again forget to kill WEI's for primogems or other mundane/daily tasks!
 - Gacha tracker(so you never again have to count your history of wishes to see when next 5* is coming)[Click here for more](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial)
 - Community guides and tips about specific farming places/methods
 
