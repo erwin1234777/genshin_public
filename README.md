@@ -15,6 +15,9 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 - Gacha tracker(so you never again have to count your history of wishes to see when next 5* is coming)[Click here for more](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial)
 - Community guides and tips about specific farming places/methods
 
+#### Tutorials/Important links
+- [Visual tutorial for Wish tracker](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial)
+
 #### Incoming features: 
 - Farming maps
 - Ticket system
@@ -46,6 +49,9 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 | `g.settings reminders disable`| [Blank] | Disables reminders messages to be sent on the guild |g.gacha|
 | `g.settings reminders output`| [#channel-name] | Forces messages from the reminders to be sent to a specific channel |g.settings reminders output #general|
 | `g.sub`| [Blank] | Enable reminders to be sent when you start genshin(once a day, resets at UTC-8, Genshin daily reset for: 天空岛, 世界树 ,TW, HK, MO , Asia) |g.sub|
+| `g.t1`| [Blank] | WIP, current placeholder for command g.reminders |g.51|
+| `g.t2`| [Blank] | WIP, debugging command to get user data |g.t2|
+| `g.t3`| [Blank] | WIP, current used to force a notification |g.t3|
 | `g.test`| [Blank] | WIP, current placeholder for command g.reminders |g.test|
 | `g.unsub`| [Blank] | Disable reminders to be sent when you start genshin |g.gacha|
 
