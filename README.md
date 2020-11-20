@@ -53,13 +53,13 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 | `g.settings prefix`| [Blank] | Bring all info about the current prefix in the guild |g.settings prefix !|
 | `g.settings prefix set/change`| [prefix(max 3 characters)] | Changes the prefix for the whole guild |g.settings prefix set !|
 | `g.settings reminders enable`| [Blank] | Enables reminders messages to be sent on the guild |g.settings reminders enable|
-| `g.settings reminders disable`| [Blank] | Disables reminders messages to be sent on the guild |g.gacha|
+| `g.settings reminders disable`| [Blank] | Disables reminders messages to be sent on the guild |g.settings reminders disable|
 | `g.settings reminders output`| [#channel-name] | Forces messages from the reminders to be sent to a specific channel |g.settings reminders output #general|
 | `g.sub`| [Blank] | Enable reminders to be sent when you start genshin(once a day, resets at UTC-8, Genshin daily reset for: 天空岛, 世界树 ,TW, HK, MO , Asia) |g.sub|
-| `g.t1`| [Blank] | Testing command, ignore(NOT PUBLIC) |g.51|
+| `g.t1`| [Blank] | Testing command, ignore(NOT PUBLIC) |g.t1|
 | `g.t2`| [Blank] | Debugging command to get user data(PUBLIC for curiosity) |g.t2|
 | `g.t3`| [Blank] | WIP, currently used to force a notification(PUBLIC, for testing) |g.t3|
-| `g.unsub`| [Blank] | Disable reminders to be sent when you start genshin |g.gacha|
+| `g.unsub`| [Blank] | Disable reminders to be sent when you start genshin |g.unsub|
 
 # Gacha Tracker visual tutorial
 
