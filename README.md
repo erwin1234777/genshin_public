@@ -26,6 +26,7 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 #### Incoming features: 
 - Ticket system
 - Feedback system
+- Weekly Reminders(for Battlepass, Wolf/Stormterror/Tartaglia boss, City Events)
 ### Need support? 
 Click [HERE](https://discord.gg/6QEExsN)
 
