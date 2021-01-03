@@ -104,7 +104,7 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 - The Megadocs Team - providing Info for the artifacts command - [MegaDocs](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq-sQxkvdbvaJtQAGG6iVz2q2UN9FCKZ8Mkyis87QHFptcOU3ViLh0_PJyMxFSgwJZrd10kbYpQFl1/pubhtml#)
 - The Genshin fandom wiki Team - Allowing Scrapping and data sourcing - [Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
 - The Game8 Wiki Team - Data Sourcing - [Wiki](https://game8.co/games/Genshin-Impact)
-- Shine (Shine#0669) - For providing early support on [Tenhas Server](https://discord.gg/hZsz3M6SbU) - [Youtube](https://www.youtube.com/channel/UCOXPm9nqKtb2pIpO0UybBHA)
+- Shine - For providing early support on [Tenhas Server](https://discord.gg/hZsz3M6SbU) - [Youtube](https://www.youtube.com/channel/UCOXPm9nqKtb2pIpO0UybBHA)
 - Fate (✧FͥAͣTͫE✧#1577) - For the chibis assets - [Twitter](https://twitter.com/FateTempest)
 
 # Gacha Tracker visual tutorial
