@@ -25,6 +25,8 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 - Announcements command when genshin has new updates/blog posts
 - Added routes for farming mobs
 - Added routes for specific resources
+- Wish simulator
+- Resin reminder (reminds you when your resin is full)
 
 #### Tutorials/Important links
 
@@ -54,31 +56,55 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 
 | Command                        | Arguments                  | Description                                                                                                                                                                          | Example                              |
 | ------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| `g.artifacts`                      | [Blank]                    | Brings up the stats and substas for every artifact rarity | g.artifacts                              |
+| `g.chibis`                      | [Blank]                    | Display case for all the chibis | g.chibis |
 | `g.gacha`                      | [Blank]                    | Wishes tracker for your wishes in genshin. More info at the end of the page [HERE](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial) | g.gacha                              |
 | `g.help`                       | [Blank]                    | Provides a link to this page                                                                                                                                                         | g.help                               |
 | `g.info`                       | [Blank]                    | Provides info about the guild, the user, and the bot page                                                                                                                                                         | g.info                               |
 | `g.invite`                     | [Blank]                    | Sends an embed containing the invite for the bot, with a redirect to the support page                                                                                                | g.invite                             |
+| `g.profile`                     | [Blank]                    | Brings up the profile of the user and their chibis                                                                                                | g.profile                             |
 | `g.reminders`                  | [Blank]                    | lists available reminders subcommands(adding info soon)                                                                                                                              | g.reminders                          |
 | `g.reminders c`                | [Blank]                    | ALIASES c, chars, characters. Brings up the menu for character selection                                                                                                             | g.reminders chars                    |
 | `g.reminders weapons`          | [Blank]                    | ALIASES overrides. Brings manual selection for week days for reminders                                                                                                               | g.reminders weapons                  |
 | `g.reminders farms`            | [Blank]                    | ALISES daily brings the daily tasks to choose and be reminded of, this is super handy                                                                                                | g.reminders daily                    |
 | `g.reminders timezone`            | [Blank]                    | ALISES time, zone, servers. Select your time region at which the bot will consider a new day to remind you about the next day's reminders                                                                                                | g.reminders timezone                    |
+| `g.resin`            | [0-160]                    | Adds a timer that will remind you based on how much resin you want to wait for                                                                                                | g.resin 40                   |
 | `g.resources`            | [Resource-Name]                    | A Genshin resource to be searched, will bring routes that you should farm to gather that specific resource quickly                                                                                                | g.resource snapdragon                   |
 | `g.routes`            | [Blank]                    |Shows some of the popular farming routes for Genshin, handy if you are grinding high level characters                                                                                                | g.routes                   |
+| `g.simulator`            | [Blank]                    |Genshin impact wish simulator                                                                                               | g.simulator                   |
+| `g.sub`                        | [Blank]                    | Enable reminders to be sent when you start genshin(once a day, resets at UTC-8, Genshin daily reset for: 天空岛, 世界树 ,TW, HK, MO , Asia)                                          | g.sub                                |
+| `g.unsub`                      | [Blank]                    | Disable reminders to be sent when you start genshin                                                                                                                                  | g.unsub                              |
+| `g.wiki`                         | [Character_Name]                    | Brings up a indepth wiki and builds regarding the searched character                                                                                                                     | g.wiki Klee                                 |
+| `g.wish`                         | [Blank]                    | Brings the brand new Chibi gacha minigame using primogems                                                                                                            | g.wish                                 |
+
+## Admin Commands
+
+| Command                        | Arguments                  | Description                                                                                                                                                                          | Example                              |
+| ------------------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
 | `g.settings`                   | [Blank]                    | Brings all current settings for your guild(permissions may be required)                                                                                                              | g.settings                           |
 | `g.settings prefix`            | [Blank]                    | Bring all info about the current prefix in the guild                                                                                                                                 | g.settings prefix !                  |
 | `g.settings prefix set/change` | [prefix(max 3 characters)] | Changes the prefix for the whole guild                                                                                                                                               | g.settings prefix set !              |
 | `g.settings announcements enable`  | [Blank]                    | Enables announcement messages to be sent on the guild                                                                                                                                   | g.settings announcements enable          |
 | `g.settings announcements disable` | [Blank]                    | Disables announcement messages to be sent on the guild                                                                                                                                  | g.settings announcements disable         |
 | `g.settings announcements output`  | [#channel-name]            | Forces announcement messages to be sent to a specific channel                                                                                                                  | g.settings announcements output #genshin-announcements |
+| `g.settings clear enable`  | [Blank]            | Enables the auto message clearer after 10 minutes                                                                                                                  | g.settings clear enable |
+| `g.settings clear disable`  | [Blank]            | Disables the auto message clearer                                                                                                                   | g.settings clear disable |
 | `g.settings reminders enable`  | [Blank]                    | Enables reminders messages to be sent on the guild                                                                                                                                   | g.settings reminders enable          |
 | `g.settings reminders disable` | [Blank]                    | Disables reminders messages to be sent on the guild                                                                                                                                  | g.settings reminders disable         |
 | `g.settings reminders output`  | [#channel-name]            | Forces messages from the reminders to be sent to a specific channel                                                                                                                  | g.settings reminders output #general |
-| `g.sub`                        | [Blank]                    | Enable reminders to be sent when you start genshin(once a day, resets at UTC-8, Genshin daily reset for: 天空岛, 世界树 ,TW, HK, MO , Asia)                                          | g.sub                                |
-| `g.t2`                         | [Blank]                    | Debugging command to get user data(PUBLIC for curiosity)                                                                                                                             | g.t2                                 |
-| `g.t3`                         | [Blank]                    | WIP, currently used to force a notification(PUBLIC, for testing)                                                                                                                     | g.t3                                 |
-| `g.unsub`                      | [Blank]                    | Disable reminders to be sent when you start genshin                                                                                                                                  | g.unsub                              |
-| `g.wiki`                         | [Character_Name]                    | Brings up a indepth wiki and builds regarding the searched character                                                                                                                     | g.wiki Klee                                 |
+
+# Contributors
+
+- Yoroshi (Yoroshi#9495) - API contributor and Wrapper SDK helper - [Website](https://teyvat.dev/)
+- Savvy (ֆǟʋɨȶǟʀ#1247) - Wiki Builds editor/maintainer
+- Chills (僕はChillsです#1546) - Wiki Builds editor/maintainer
+- Gobelyn - Wiki Builds image creator - [Twitter](https://twitter.com/ElGobelyn)
+- PKRob (PKRob#7141) - Beta Tester
+- The Megadocs Team - providing Info for the artifacts command - [MegaDocs](https://docs.google.com/spreadsheets/d/e/2PACX-1vRq-sQxkvdbvaJtQAGG6iVz2q2UN9FCKZ8Mkyis87QHFptcOU3ViLh0_PJyMxFSgwJZrd10kbYpQFl1/pubhtml#)
+- The Genshin fandom wiki Team - Allowing Scrapping and data sourcing - [Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
+- The Game8 Wiki Team - Data Sourcing - [Wiki](https://game8.co/games/Genshin-Impact)
+- Shine (Shine#0669) - For providing early support on [Tenhas Server](https://discord.gg/hZsz3M6SbU) - [Youtube](https://www.youtube.com/channel/UCOXPm9nqKtb2pIpO0UybBHA)
+- Fate (✧FͥAͣTͫE✧#1577) - For the chibis assets - [Twitter](https://twitter.com/FateTempest)
 
 # Gacha Tracker visual tutorial
 
