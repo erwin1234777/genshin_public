@@ -20,13 +20,15 @@ Simply click [HERE](https://discord.com/oauth2/authorize?client_id=7735851653175
 - Weapons tracker to keep track of days needed to grab ascencion materials for your weapons
 - Daily chores/farms to be done(customizable). Never again forget to kill WEI's for primogems or other mundane/daily tasks!
 - Gacha tracker(so you never again have to count your history of wishes to see when next 5\* is coming) [Click here for more](https://github.com/erwin1234777/genshin_public/blob/main/README.md#gacha-tracker-visual-tutorial)
-- Community guides and tips about specific farming places/methods
-- Wiki about characters
-- Announcements command when genshin has new updates/blog posts
-- Added routes for farming mobs
-- Added routes for specific resources
+- Wiki
+- Announcements when genshin has new updates/blog posts
+- Best routes for farming mobs
+- Best routes for specific resources
 - Wish simulator
 - Resin reminder (reminds you when your resin is full)
+- Mail
+- Minigames
+- Collectible chibis
 
 #### Tutorials/Important links
 
@@ -63,12 +65,13 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 | `g.help`                       | [Blank]                    | Provides a link to this page                                                                                                                                                         | g.help                               |
 | `g.info`                       | [Blank]                    | Provides info about the guild, the user, and the bot page                                                                                                                                                         | g.info                               |
 | `g.invite`                     | [Blank]                    | Sends an embed containing the invite for the bot, with a redirect to the support page                                                                                                | g.invite                             |
+| `g.mail`                     | [Blank]                    | Shows your inbox, be sure to claim your rewards!                                                                                                 | g.mail                             |
 | `g.profile`                     | [Blank]                    | Brings up the profile of the user and their chibis                                                                                                | g.profile                             |
 | `g.reminders`                  | [Blank]                    | lists available reminders subcommands(adding info soon)                                                                                                                              | g.reminders                          |
 | `g.reminders c`                | [Blank]                    | ALIASES c, chars, characters. Brings up the menu for character selection                                                                                                             | g.reminders chars                    |
 | `g.reminders weapons`          | [Blank]                    | ALIASES overrides. Brings manual selection for week days for reminders                                                                                                               | g.reminders weapons                  |
-| `g.reminders farms`            | [Blank]                    | ALISES daily brings the daily tasks to choose and be reminded of, this is super handy                                                                                                | g.reminders daily                    |
-| `g.reminders timezone`            | [Blank]                    | ALISES time, zone, servers. Select your time region at which the bot will consider a new day to remind you about the next day's reminders                                                                                                | g.reminders timezone                    |
+| `g.reminders farms`            | [Blank]                    | ALIASES daily brings the daily tasks to choose and be reminded of, this is super handy                                                                                                | g.reminders daily                    |
+| `g.reminders timezone`            | [Blank]                    | ALIASES time, zone, servers. Select your time region at which the bot will consider a new day to remind you about the next day's reminders                                                                                                | g.reminders timezone                    |
 | `g.resin`            | [0-160]                    | Adds a timer that will remind you based on how much resin you want to wait for                                                                                                | g.resin 40                   |
 | `g.resources`            | [Resource-Name]                    | A Genshin resource to be searched, will bring routes that you should farm to gather that specific resource quickly                                                                                                | g.resource snapdragon                   |
 | `g.routes`            | [Blank]                    |Shows some of the popular farming routes for Genshin, handy if you are grinding high level characters                                                                                                | g.routes                   |
