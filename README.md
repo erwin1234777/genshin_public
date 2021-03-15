@@ -1,6 +1,6 @@
 # Genshin Utilities Bot(GenshinUtils)
 
-This bot is made using Typescript, using discord.js library.
+This bot is made using Typescript, using detritus.js library.
 
 It is a Genshin oriented bot aimed to help travelers in their journeys.
 This bot is Safe For Work.
