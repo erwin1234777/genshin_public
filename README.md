@@ -109,7 +109,7 @@ Simply dm the author Not Erwin#8753 if you request data deletion
 - The Game8 Wiki Team - Data Sourcing - [Wiki](https://game8.co/games/Genshin-Impact)
 - Shine - For providing early support on [Tenhas Server](https://discord.gg/hZsz3M6SbU) - [Youtube](https://www.youtube.com/channel/UCOXPm9nqKtb2pIpO0UybBHA)
 - Fate (✧FͥAͣTͫE✧#1577) - For the chibis assets - [Twitter](https://twitter.com/FateTempest)
-- WorldOfTeyVat - Providing Images for wiki [Twitter](https://twitter.com/WorldOfTeyvat?s=09)
+- WorldOfTeyvat - Providing Images for wiki [Twitter](https://twitter.com/WorldOfTeyvat?s=09)
 
 # Gacha Tracker visual tutorial
 
